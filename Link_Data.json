@@ -10,13 +10,13 @@
     "url": "https://instagram.com"
   },
   {
-    "name": "Twitter",
-    "Icon": "https://firebasestorage.googleapis.com/v0/b/data-9d0dc.appspot.com/o/Video%20Lite%2Fyoutube.png?alt=media&token=a59828cb-15c9-4f06-8ac7-d2c7bf9a74be",
-    "url": "https://twitter.com"
+    "name": "Twitch",
+    "Icon": "https://firebasestorage.googleapis.com/v0/b/data-9d0dc.appspot.com/o/Video%20Lite%2Ftwitch.png?alt=media&token=90189851-b530-4992-a568-a2d86c68f8dc",
+    "url": "https://www.twitch.tv/"
   },
   {
-    "name": "Tiktok",
-    "Icon": "https://firebasestorage.googleapis.com/v0/b/data-9d0dc.appspot.com/o/Video%20Lite%2Fyoutube.png?alt=media&token=a59828cb-15c9-4f06-8ac7-d2c7bf9a74be",
-    "url": "https://tiktok.com"
+    "name": "Rumble",
+    "Icon": "https://firebasestorage.googleapis.com/v0/b/data-9d0dc.appspot.com/o/Video%20Lite%2FRumble.png?alt=media&token=f3a8ae12-f1e7-43ca-b6c1-f2becaee60bd",
+    "url": "https://rumble.com/"
   }
 ]
