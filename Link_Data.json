@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Youtube",
+    "Icon": "https://firebasestorage.googleapis.com/v0/b/data-9d0dc.appspot.com/o/Video%20Lite%2Fyoutube.png?alt=media&token=a59828cb-15c9-4f06-8ac7-d2c7bf9a74be",
+    "url": "https://youtube.com"
+  },
+  {
+    "name": "Instagram",
+    "Icon": "https://firebasestorage.googleapis.com/v0/b/data-9d0dc.appspot.com/o/Video%20Lite%2Fyoutube.png?alt=media&token=a59828cb-15c9-4f06-8ac7-d2c7bf9a74be",
+    "url": "https://instagram.com"
+  },
+  {
+    "name": "Twitter",
+    "Icon": "https://firebasestorage.googleapis.com/v0/b/data-9d0dc.appspot.com/o/Video%20Lite%2Fyoutube.png?alt=media&token=a59828cb-15c9-4f06-8ac7-d2c7bf9a74be",
+    "url": "https://twitter.com"
+  },
+  {
+    "name": "Tiktok",
+    "Icon": "https://firebasestorage.googleapis.com/v0/b/data-9d0dc.appspot.com/o/Video%20Lite%2Fyoutube.png?alt=media&token=a59828cb-15c9-4f06-8ac7-d2c7bf9a74be",
+    "url": "https://tiktok.com"
+  }
+]
